@@ -22,3 +22,4 @@ This EDA project uses SQL to explore, clean, and understand a real dataset store
 ->Basic SELECT queries with filters, GROUP BY and aggregates.
 ->Joins across related tables to enrich analysis.
 ->Date/time functions for trend analysis over periods.
+
